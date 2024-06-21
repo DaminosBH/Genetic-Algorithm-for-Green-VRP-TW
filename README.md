@@ -1,24 +1,41 @@
-# Genetic-Algorithm-for-Green-VRP-TW
-Implementation of green VRP-TW algorithms using a Genetic Algorithm.
-The algorithm is tested using SOLOMON INSTANCES
-## Genetic Algorithms for  Green VRP-TW
-Genetic Algorithms for solving the vehicle routing problem (VRP)
-This practical assignment requires to develop, using Python, an implementation of genetic algorithms for solving the Vehicle Routing Problem -- VRP 
+# Genetic Algorithm for Green VRP-TW
+Implementation of green VRP-TW algorithms using a Genetic Algorithm. The algorithm is tested using SOLOMON INSTANCES.
 
-The developped algothirm is a combination of genetic algorithms with nearest neighbor initialization and local search techniques has been explored extensively in the context of the Vehicle Routing Problem (VRP) and related optimization problems.
+## Genetic Algorithms for Green VRP-TW
+Genetic Algorithms for solving the Vehicle Routing Problem (VRP). This practical assignment requires developing, using Python, an implementation of genetic algorithms for solving the Vehicle Routing Problem (VRP).
 
-## What's new in this Hybrid genetic algorithm :
+The developed algorithm is a combination of genetic algorithms with nearest neighbor initialization and local search techniques, extensively explored in the context of the Vehicle Routing Problem (VRP) and related optimization problems.
 
-### intialization of population with nearst neighbours search 
-### integration of local search algorithm
+---
 
+## Table of Contents
+1. [What's New](#whats-new)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Acknowledgements](#acknowledgements)
 
-## Bibliography
-- Artificial Intelligence: A Modern Approach. S. Russell and P. Norvig.
-- GAVaPS - a Genetic Algorithm with Varying Population Size. J. Arabas, Z. Michalewicz, and J. Mulawla. Proc. 1st IEEE Conf. on Evolutionary Computation, pp. 73 - 78.
-- The direct link might require to have an IP within the campus to grant the download, but you can access from home via the library catalog (Fama).
-- Solving the Vehicle Routing Problem by Using Cellular Genetic Algorithms . E. Alba and B. Dorronsoro. LNCS 3004, pp. 11-20.
-- Other books available at the University library. For instance:
-- Algoritmos Evolutivos: Un enfoque práctico. L. Araujo, C. Cervigón.
-- Genetic algorithms and genetic programming : modern concepts and practical applications. M. Affenzeller...[et al.]
-- Genetic algorithms + data structures = Evolution programs. Z. Michalewicz.
+---
+
+## What's New
+- **Initialization of Population with Nearest Neighbors Search**: Enhanced initial population generation using nearest neighbor heuristic to improve starting solutions.
+- **Integration of Local Search Algorithm**: Incorporates local search techniques to refine solutions and enhance the genetic algorithm's performance.
+
+---
+
+## Installation
+Follow these instructions to set up the project locally.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/Genetic-Algorithm-for-Green-VRP-TW.git
+
+# Navigate to the project directory
+cd Genetic-Algorithm-for-Green-VRP-TW
+
+# Install required dependencies
+pip install -r requirements.txt
+
