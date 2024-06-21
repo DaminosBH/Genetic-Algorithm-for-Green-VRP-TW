@@ -10,9 +10,7 @@ The developed algorithm is a combination of genetic algorithms with nearest neig
 
 ## Table of Contents
 1. [What's New](#whats-new)
-2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Features](#features)
 5. [Contributing](#contributing)
 6. [License](#license)
 7. [Contact](#contact)
@@ -23,19 +21,37 @@ The developed algorithm is a combination of genetic algorithms with nearest neig
 ## What's New
 - **Initialization of Population with Nearest Neighbors Search**: Enhanced initial population generation using nearest neighbor heuristic to improve starting solutions.
 - **Integration of Local Search Algorithm**: Incorporates local search techniques to refine solutions and enhance the genetic algorithm's performance.
+- **GREEN VRP-TW**:The evaluation of the VRP Aims to minimize emissions rather than distance
+- **MEET / NAEI Emission Models**: The vehicle Emission can be calcultaed using NAEI or MEET model depending on the application or the needs of the user.
 
 ---
 
-## Installation
-Follow these instructions to set up the project locally.
+##  Usage
+Follow these instructions to test the project locally.
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/Genetic-Algorithm-for-Green-VRP-TW.git
+1- select the Emission model by commenting or uncommenting one of the coded models in the evaluation function in core.py ( by default the code uses the MEET Emission Model.
+2- Run TEST.py
 
-# Navigate to the project directory
-cd Genetic-Algorithm-for-Green-VRP-TW
 
-# Install required dependencies
-pip install -r requirements.txt
+---
+
+##Licence
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+##Contact
+
+Email: Medaminebenehellel@ieee.org
+GitHub: DaminosBH
+Linkedin :https://www.linkedin.com/in/med-amine-ben-helal-bb653718a/
+
+---
+
+## Supervised By
+- **Dr. Labidie Nacima**
+  - Affiliation: [University of Technologies of Troyes]
+  
+- **Dr. Ouazene Yassine**
+  - Affiliation: [University of Technologies of Troyes]
 
