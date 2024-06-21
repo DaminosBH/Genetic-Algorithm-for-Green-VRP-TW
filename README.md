@@ -51,7 +51,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## Supervised By
+## Acknowledgements
+This PROJECT WAS Supervised By
 - **Dr. Labidie Nacima**
   - Affiliation: [University of Technologies of Troyes]
   
