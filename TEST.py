@@ -2,7 +2,7 @@
 
 
 import random
-from gavrptw.core import run_gavrptw
+from GAVRPTW.core import run_gavrptw
 
 
 def main():
