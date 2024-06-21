@@ -35,16 +35,16 @@ Follow these instructions to test the project locally.
 
 ---
 
-##Licence
+## Licence
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-##Contact
+## Contact
 
-Email: Medaminebenehellel@ieee.org
-GitHub: DaminosBH
-Linkedin :https://www.linkedin.com/in/med-amine-ben-helal-bb653718a/
+**Email**: Medaminebenehellel@ieee.org
+**GitHub**: DaminosBH
+**Linkedin** :https://www.linkedin.com/in/med-amine-ben-helal-bb653718a/
 
 ---
 
