@@ -30,6 +30,7 @@ The developed algorithm is a combination of genetic algorithms with nearest neig
 Follow these instructions to test the project locally.
 
 1- select the Emission model by commenting or uncommenting one of the coded models in the evaluation function in core.py ( by default the code uses the MEET Emission Model.
+
 2- Run TEST.py
 
 
@@ -43,7 +44,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 **Email**: Medaminebenehellel@ieee.org
+
 **GitHub**: DaminosBH
+
 **Linkedin** :https://www.linkedin.com/in/med-amine-ben-helal-bb653718a/
 
 ---
